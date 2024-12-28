@@ -70,4 +70,4 @@ Please download the file JPLEPH.440 into the current directory https://download.
     8.18.1 Solid tidal effects on various geodetic variations outside solid Earth
     8.2.3 The normalized associated Legendre functions and thier derivative to θ
     8.3.3 Legendre function and its first and second derivatives to ψ
-DOS executable test file, geophysical models and all input and output data.
+The zip compression package includes the test project in visual studio 2017 - intel fortran integrated environment, DOS executable test file, geophysical models and all input and output data.
